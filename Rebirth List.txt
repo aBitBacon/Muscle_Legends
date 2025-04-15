@@ -1,0 +1,151 @@
+5980 [Jungle Gym] +60 Stats per punch
+6980 [Jungle Gym] +65 Stats per punch
+10440 [Jungle Gym] +80 Stats per punch
+11740 [Jungle Gym] +85 Stats per punch
+13120 [Jungle Gym] +90 Stats per punch
+14580 [Jungle Gym] +95 Stats per punch
+14592 [Jungle Gym] +95 Stats per punch (THEORETICAL)
+
+80 [Muscle King] +5 Stats per punch
+280 [Muscle King] +10 Stats per punch
+580 [Muscle King] +15 Stats per punch
+980 [Muscle King] +20 Stats per punch
+1480 [Muscle King] +25 Stats per punch
+2080 [Muscle King] +30 Stats per punch
+2780 [Muscle King] +35 Stats per punch
+3580 [Muscle King] +40 Stats per punch
+4480 [Muscle King] +45 Stats per punch
+5480 [Muscle King] +50 Stats per punch
+6580 [Muscle King] +55 Stats per punch
+7780 [Muscle King] +60 Stats per punch
+9080 [Muscle King] +65 Stats per punch
+10480 [Muscle King] +70 Stats per punch
+11980 [Muscle King] +75 Stats per punch
+13580 [Muscle King] +80 Stats per punch
+15280 [Muscle King] +85 Stats per punch
+17080 [Muscle King] +90 Stats per punch
+18980 [Muscle King] +95 Stats per punch
+
+480 [Legends Gym] +5 Stats per punch
+1480 [Legends Gym] +10 Stats per punch
+2980 [Legends Gym] +15 Stats per punch
+4980 [Legends Gym] +20 Stats per punch
+7480 [Legends Gym] +25 Stats per punch
+10480 [Legends Gym] +30 Stats per punch
+13980 [Legends Gym] +35 Stats per punch
+17980 [Legends Gym] +40 Stats per punch
+22480 [Legends Gym] +45 Stats per punch
+27480 [Legends Gym] +50 Stats per punch
+32980 [Legends Gym] +55 Stats per punch
+38980 [Legends Gym] +60 Stats per punch
+45480 [Legends Gym] +65 Stats per punch
+52480 [Legends Gym] +70 Stats per punch
+59980 [Legends Gym] +75 Stats per punch
+67980 [Legends Gym] +80 Stats per punch
+76480 [Legends Gym] +85 Stats per punch
+85480 [Legends Gym] +90 Stats per punch
+94980 [Legends Gym] +95 Stats per punch
+
+39980 [Eternal Gym] +40 Stats per punch
+49980 [Eternal Gym] +45 Stats per punch
+169980 [Eternal Gym] +85 Stats per punch
+189980 [Eternal Gym] +90 Stats per punch
+
+4980 [Mythical Gym] +10 Stats per punch
+9980 [Mythical Gym] +15 Stats per punch
+24980 [Mythical Gym] +25 Stats per punch
+34980 [Mythical Gym] +30 Stats per punch
+59980 [Mythical Gym] +40 Stats per punch
+74980 [Mythical Gym] +45 Stats per punch
+109980 [Mythical Gym] +55 Stats per punch
+129980 [Mythical Gym] +60 Stats per punch
+174980 [Mythical Gym] +70 Stats per punch
+199980 [Mythical Gym] +75 Stats per punch
+254980 [Mythical Gym] +85 Stats per punch
+284980 [Mythical Gym] +90 Stats per punch
+
+9980 [Frost Gym] +10 Stats per punch
+19980 [Frost Gym] +15 Stats per punch
+49980 [Frost Gym] +25 Stats per punch
+69980 [Frost Gym] +30 Stats per punch
+119980 [Frost Gym] +40 Stats per punch
+149980 [Frost Gym] +45 Stats per punch
+219980 [Frost Gym] +55 Stats per punch
+259980 [Frost Gym] +60 Stats per punch
+349980 [Frost Gym] +70 Stats per punch
+399980 [Frost Gym] +75 Stats per punch
+509980 [Frost Gym] +85 Stats per punch
+569980 [Frost Gym] +90 Stats per punch
+
+6230 [5K Durability Rock] +5 Stats per punch
+18730 [5K Durability Rock] +10 Stats per punch
+37480 [5K Durability Rock] +15 Stats per punch
+62480 [5K Durability Rock] +20 Stats per punch
+93730 [5K Durability Rock] +25 Stats per punch
+131230 [5K Durability Rock] +30 Stats per punch
+174980 [5K Durability Rock] +35 Stats per punch
+224980 [5K Durability Rock] +40 Stats per punch
+281230 [5K Durability Rock] +45 Stats per punch
+343730 [5K Durability Rock] +50 Stats per punch
+412480 [5K Durability Rock] +55 Stats per punch
+487480 [5K Durability Rock] +60 Stats per punch
+568730 [5K Durability Rock] +65 Stats per punch
+656230 [5K Durability Rock] +70 Stats per punch
+749980 [5K Durability Rock] +75 Stats per punch
+849980 [5K Durability Rock] +80 Stats per punch
+956230 [5K Durability Rock] +85 Stats per punch
+1068730 [5K Durability Rock] +90 Stats per punch
+1187480 [5K Durability Rock] +95 Stats per punch
+
+49980 [100 Durability Rock] +10 Stats per punch
+99980 [100 Durability Rock] +15 Stats per punch
+249980 [100 Durability Rock] +25 Stats per punch
+349980 [100 Durability Rock] +30 Stats per punch
+599980 [100 Durability Rock] +40 Stats per punch
+749980 [100 Durability Rock] +45 Stats per punch
+1099980 [100 Durability Rock] +55 Stats per punch
+1299980 [100 Durability Rock] +60 Stats per punch
+1749980 [100 Durability Rock] +70 Stats per punch
+1999980 [100 Durability Rock] +75 Stats per punch
+2549980 [100 Durability Rock] +85 Stats per punch
+2849980 [100 Durability Rock] +90 Stats per punch
+
+24980 [10 Durability Rock] +5 Stats per punch
+74980 [10 Durability Rock] +10 Stats per punch
+149980 [10 Durability Rock] +15 Stats per punch
+249980 [10 Durability Rock] +20 Stats per punch
+374980 [10 Durability Rock] +25 Stats per punch
+524980 [10 Durability Rock] +30 Stats per punch
+699980 [10 Durability Rock] +35 Stats per punch
+899980 [10 Durability Rock] +40 Stats per punch
+1124980 [10 Durability Rock] +45 Stats per punch
+1374980 [10 Durability Rock] +50 Stats per punch
+1649980 [10 Durability Rock] +55 Stats per punch
+1949980 [10 Durability Rock] +60 Stats per punch
+2274980 [10 Durability Rock] +65 Stats per punch
+2624980 [10 Durability Rock] +70 Stats per punch
+2999980 [10 Durability Rock] +75 Stats per punch
+3399980 [10 Durability Rock] +80 Stats per punch
+3824980 [10 Durability Rock] +85 Stats per punch
+4274980 [10 Durability Rock] +90 Stats per punch
+4749980 [10 Durability Rock] +95 Stats per punch
+
+49980 [Tiny Gym Rock] +5 Stats per punch
+149980 [Tiny Gym Rock] +10 Stats per punch
+299980 [Tiny Gym Rock] +15 Stats per punch
+499980 [Tiny Gym Rock] +20 Stats per punch
+749980 [Tiny Gym Rock] +25 Stats per punch
+1049980 [Tiny Gym Rock] +30 Stats per punch
+1399980 [Tiny Gym Rock] +35 Stats per punch
+1799980 [Tiny Gym Rock] +40 Stats per punch
+2249980 [Tiny Gym Rock] +45 Stats per punch
+2749980 [Tiny Gym Rock] +50 Stats per punch
+3299980 [Tiny Gym Rock] +55 Stats per punch
+3899980 [Tiny Gym Rock] +60 Stats per punch
+4549980 [Tiny Gym Rock] +65 Stats per punch
+5249980 [Tiny Gym Rock] +70 Stats per punch
+5999980 [Tiny Gym Rock] +75 Stats per punch
+6799980 [Tiny Gym Rock] +80 Stats per punch
+7649980 [Tiny Gym Rock] +85 Stats per punch
+8549980 [Tiny Gym Rock] +90 Stats per punch
+9499980 [Tiny Gym Rock] +95 Stats per punch
